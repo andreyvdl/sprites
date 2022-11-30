@@ -1,6 +1,5 @@
-/*  XPM  */
+/* XPM */
 static char *xpm_[] = {
-/*  coolumns  roows  cooloors  chars-per-pixel  */
 "128 128 10 1 ",
 "  c #CEA25A",
 ". c #E7D3A5",
@@ -12,7 +11,6 @@ static char *xpm_[] = {
 "# c #F8A000",
 "$ c #BD924A",
 "% c #D6AA6B",
-/*  pixels  */
 "            ....XXXXXXXXXXXXXXXXXXXXXXXXooooooooooooooooooooooooooooooooooooooooooooooooooooooooXXXXXXXX........                ",
 "            ....XXXXXXXXXXXXXXXXXXXXXXXXooooooooooooooooooooooooooooooooooooooooooooooooooooooooXXXXXXXX........                ",
 "            ....XXXXXXXXXXXXXXXXXXXXXXXXooooooooooooooooooooooooooooooooooooooooooooooooooooooooXXXXXXXX........                ",
